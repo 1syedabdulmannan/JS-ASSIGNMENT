@@ -9,6 +9,7 @@ alert ("This is the assignment \n of Javascript");
 
 // Q)4
 alert ("This is the assignment");
+alert ("My Name is Abdul Mannan");
 alert ("Last Date of submission is 23 Aug");
 
 // Q)7
